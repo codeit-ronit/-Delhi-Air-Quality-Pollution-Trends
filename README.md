@@ -22,6 +22,7 @@ This project analyzes Delhi's air quality data to understand pollution trends, i
 14. [Analysis 7: Monthly Distribution Visualization](#analysis-7-monthly-distribution-visualization)
 15. [Analysis 8: Time Series Analysis and Prediction](#analysis-8-time-series-analysis-and-prediction)
 16. [Results and Conclusions](#results-and-conclusions)
+17. [Sources and References](#sources-and-references)
 
 ---
 

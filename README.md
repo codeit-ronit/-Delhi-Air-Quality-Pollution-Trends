@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes Delhi's air quality data to understand pollution trends, identify key contributing factors, and build predictive models. The analysis helps us understand how air quality changes over time, what causes pollution spikes, and how different pollutants affect overall air quality.
 
+### Analysis By : Janhvi Yadav, A M Yeeshu, Ronit Kumar Choudhary
+
 ---
 
 ## Table of Contents
